@@ -1,0 +1,9 @@
+# Elementos estruturais e semântica dos elementos
+
+Vimos muitas tags para representar diversos elementos em nossa página HTML como, por exemplo, `<h1>` para títulos, `<p>` para parágrafos, `<figure>` para figuras, etc. Nossa maior preocupação com desenvolvimento de páginas deve ser conseguir representar tudo com tags que condizem com o seu conteúdo. Veremos tags como, por exemplo, `<section>`, `<article>`, `<address>`, entre outras, com a intenção de representar com maior precisão o conteúdo que queremos mostrar. Estas tags são chamadas também de elementos semânticos, ou seja, que conseguem passar uma informação com um significado específico para o conteúdo interpretado pelo navegador, não depende apenas do texto dentro da tag para se entender o que há naquela parte do site.
+
+Um dos grandes motivos para nos preocuparmos com a semântica que usamos no site vem das ferramentas de indexação de buscadores, que colocam os sites mais semânticos e estruturados como prioridade nas respostas das buscas. A outra grande preocupação é com as ferramentas de acessibilidade, que permitem que pessoas com deficiência, por exemplo pessoas cegas, consigam usar um site através de softwares leitores de tela de maneira padronizada e sem problemas.
+
+Uma coisa que precisamos lembrar é que devemos escolher as tags pelo o que elas representam e não como elas são mostradas na tela do navegador. Estilização deve ficar no CSS e estrutura no HTML.
+
+As únicas tags que são de propósito genérico e que são usadas apenas para facilitar a estilização no CSS são as tags `<div>` e `<span>`. Essas duas tags não representam nenhum conteúdo necessariamente. `<div>` representa uma divisão de blocos e `<span>` uma marcação para texto (sem quebrar a linha do texto).

@@ -1,0 +1,329 @@
+titulo: "Desenvolvimento Web com HTML, CSS e JavaScript"
+descricao: "Aprenda HTML5, CSS3 e JavaScript. Faça páginas web com boas práticas e as últimas novidades. Apostila gratuita do curso da Caelum."
+capitulos: 
+  -
+    titulo: "Sobre o curso - O complexo mundo do front-end"
+    arquivo: 00-intro-mundo-html.md
+    codigo: intro-mundo-html
+    secoes:
+      -
+        titulo: "O curso e os exercícios"
+        codigo: "o-curso-e-os-exercicios"
+      -
+        titulo: "O projeto da MusicDot"
+        codigo: "o-projeto-da-musicdot"
+      -
+        titulo: "Tirando dúvidas em aula"
+        codigo: "tirando-duvidas-em-aula"
+      -
+        titulo: "Tirando dúvidas online no GUJ e no fórum da Alura"
+        codigo: "tirando-duvidas-online-no-guj-e-no-forum-da-alura"
+      -
+        titulo: "Bibliografia"
+        codigo: "bibliografia"
+      -
+        titulo: "Para onde ir depois?"
+        codigo: "para-onde-ir-depois"
+  -
+    titulo: "A estrutura dos arquivos de um projeto"
+    arquivo: 01-baixando-os-arquivos-do-curso.md
+    codigo: baixando-os-arquivos-do-curso
+    secoes:
+      -
+        titulo: "Web site ou aplicação Web?"
+        codigo: "web-site-ou-aplicacao-web"
+      -
+        titulo: "Editores e IDEs"
+        codigo: "editores-e-ides"
+  -
+    titulo: "Introdução ao HTML"
+    arquivo: 02-primeiros-passos-com-html.md
+    codigo: primeiros-passos-com-html
+    secoes:
+      -
+        titulo: "Exibindo informações na Web"
+        codigo: "exibindo-informacoes-na-web"
+      -
+        titulo: "Sintaxe do HTML"
+        codigo: "sintaxe-do-html"
+      -
+        titulo: "Tags HTML"
+        codigo: "tags-html"
+      -
+        titulo: "Imagens"
+        codigo: "imagens"
+      -
+        titulo: "Primeira página"
+        codigo: "primeira-pagina"
+  -
+    titulo: "Estrutura de um documento HTML"
+    arquivo: 03-a-spec-html.md
+    codigo: a-spec-html
+    secoes:
+      -
+        titulo: "A tag `<html>`"
+        codigo: "a-tag-html"
+      -
+        titulo: "A tag `<head>`"
+        codigo: "a-tag-head"
+      -
+        titulo: "A tag `<body>`"
+        codigo: "a-tag-body"
+      -
+        titulo: "A instrução DOCTYPE"
+        codigo: "a-instrucao-doctype"
+  -
+    titulo: "Estilizando com CSS"
+    arquivo: 04-mudando-o-visual-da-nossa-pagina.md
+    codigo: mudando-o-visual-da-nossa-pagina
+    secoes:
+      -
+        titulo: "Sintaxe e inclusão de CSS"
+        codigo: "sintaxe-e-inclusao-de-css"
+      -
+        titulo: "Propriedades tipográficas e fontes"
+        codigo: "propriedades-tipograficas-e-fontes"
+      -
+        titulo: "Alinhamento e decoração de texto"
+        codigo: "alinhamento-e-decoracao-de-texto"
+      -
+        titulo: "Imagem de fundo"
+        codigo: "imagem-de-fundo"
+      -
+        titulo: "Bordas"
+        codigo: "bordas"
+      -
+        titulo: "Cores na Web"
+        codigo: "cores-na-web"
+  -
+    titulo: "Espaçamentos e dimensões"
+    arquivo: 05-trabalhando-com-tamanhos-e-espacamento.md
+    codigo: trabalhando-com-tamanhos-e-espacamento
+    secoes:
+      -
+        titulo: "Dimensões"
+        codigo: "dimensoes"
+      -
+        titulo: "Espaçamentos"
+        codigo: "espacamentos"
+  -
+    titulo: "Listas HTML"
+    arquivo: 06-usando-links-e-listas.md
+    codigo: usando-links-e-listas
+    secoes:
+      -
+        titulo: "Listas de definição"
+        codigo: "listas-de-definicao"
+      -
+        titulo: "Links no HTML"
+        codigo: "links-no-html"
+  -
+    titulo: "Seletores mais específicos e herança"
+    arquivo: 07-selecionando-elementos-mais-especificos-e-heranca.md
+    codigo: selecionando-elementos-mais-especificos-e-heranca
+    secoes:
+      -
+        titulo: "Para saber mais: o valor inherit"
+        codigo: "para-saber-mais-o-valor-inherit"
+  -
+    titulo: "Desacoplamento com classes"
+    arquivo: 08-usando-classes-para-evitar-acoplamentos-de-estilos.md
+    codigo: usando-classes-para-evitar-acoplamentos-de-estilos
+  -
+    titulo: "Elementos estruturais e semântica dos elementos"
+    arquivo: 09-semantica-em-primeiro-lugar.md
+    codigo: semantica-em-primeiro-lugar
+  -
+    titulo: "Conhecendo padrões de CSS"
+    arquivo: 10-treinando-display-e-nomenclatura-de-classes.md
+    codigo: treinando-display-e-nomenclatura-de-classes
+    secoes:
+      -
+        titulo: "Tipos de display"
+        codigo: "tipos-de-display"
+  -
+    titulo: "Unidades relativas com EM e REM"
+    arquivo: 13-medidas-relativas-em-rem.md
+    codigo: medidas-relativas-em-rem
+  -
+    titulo: "Site mobile ou mesmo site?"
+    arquivo: 14-responsividade-com-viewport-e-unidades-relativas.md
+    codigo: responsividade-com-viewport-e-unidades-relativas
+    secoes:
+      -
+        titulo: "CSS media types"
+        codigo: "css-media-types"
+      -
+        titulo: "CSS3 media queries"
+        codigo: "css3-media-queries"
+      -
+        titulo: "Viewport"
+        codigo: "viewport"
+      -
+        titulo: "Responsive Web Design"
+        codigo: "responsive-web-design"
+      -
+        titulo: "Mobile-first"
+        codigo: "mobile-first"
+  -
+    titulo: "O processo de desenvolvimento de uma tela"
+    arquivo: 16-estrutura-da-pagina-index.md
+    codigo: estrutura-da-pagina-index
+    secoes:
+      -
+        titulo: "Analisando o Layout"
+        codigo: "analisando-o-layout"
+  -
+    titulo: "Estilizando o header da home"
+    arquivo: 17-comecando-a-estilizar-o-header-da-home.md
+    codigo: comecando-a-estilizar-o-header-da-home
+    secoes:
+      -
+        titulo: "CSS Reset"
+        codigo: "css-reset"
+      -
+        titulo: "Fontes Próprias"
+        codigo: "fontes-proprias"
+      -
+        titulo: "Modularizando Componentes com CSS Isolados"
+        codigo: "modularizando-componentes-com-css-isolados"
+  -
+    titulo: "Progressive Enhancement"
+    arquivo: 18-progressive-enhancement.md
+    codigo: progressive-enhancement
+    secoes:
+      -
+        titulo: "Condições, opções, limitações e restrições"
+        codigo: "condicoes-opcoes-limitacoes-e-restricoes"
+  -
+    titulo: "Display Flex"
+    arquivo: 19-novos-layouts-com-flexbox.md
+    codigo: novos-layouts-com-flexbox
+    secoes:
+      -
+        titulo: "Flex Container"
+        codigo: "flex-container"
+  -
+    titulo: "Responsividade e Fallback"
+    arquivo: 21-responsividade-e-fallback.md
+    codigo: responsividade-e-fallback
+  -
+    titulo: "Display: grid"
+    arquivo: 29-conteudo-principal-com-grid.md
+    codigo: conteudo-principal-com-grid
+    secoes:
+      -
+        titulo: "grid-template-columns"
+        codigo: "grid-template-columns"
+      -
+        titulo: "grid-template-rows"
+        codigo: "grid-template-rows"
+  -
+    titulo: "Bootstrap e frameworks de CSS"
+    arquivo: 35-paginas-com-bootstrap.md
+    codigo: paginas-com-bootstrap
+    secoes:
+      -
+        titulo: "Estilo e componentes base"
+        codigo: "estilo-e-componentes-base"
+  -
+    titulo: "Um pouquinho da história do JavaScript"
+    arquivo: 38-eventos-com-javascript.md
+    codigo: eventos-com-javascript
+    secoes:
+      -
+        titulo: "História"
+        codigo: "historia"
+      -
+        titulo: "Características da linguagem"
+        codigo: "caracteristicas-da-linguagem"
+      -
+        titulo: "Console do navegador"
+        codigo: "console-do-navegador"
+      -
+        titulo: "Sintaxe básica do JavaScript"
+        codigo: "sintaxe-basica-do-javascript"
+      -
+        titulo: "A tag script"
+        codigo: "a-tag-script"
+      -
+        titulo: "JavaScript em arquivo externo"
+        codigo: "javascript-em-arquivo-externo"
+      -
+        titulo: "Mensagens no console"
+        codigo: "mensagens-no-console"
+      -
+        titulo: "DOM: sua página no mundo JavaScript"
+        codigo: "dom-sua-pagina-no-mundo-javascript"
+      -
+        titulo: "querySelector"
+        codigo: "queryselector"
+      -
+        titulo: "Elemento da página como variável"
+        codigo: "elemento-da-pagina-como-variavel"
+      -
+        titulo: "querySelectorAll"
+        codigo: "queryselectorall"
+      -
+        titulo: "Alterações no DOM"
+        codigo: "alteracoes-no-dom"
+      -
+        titulo: "Funções e os eventos do DOM"
+        codigo: "funcoes-e-os-eventos-do-dom"
+      -
+        titulo: "Funções Anônimas"
+        codigo: "funcoes-anonimas"
+      -
+        titulo: "Manipulando strings"
+        codigo: "manipulando-strings"
+      -
+        titulo: "Imutabilidade"
+        codigo: "imutabilidade"
+      -
+        titulo: "Conversões"
+        codigo: "conversoes"
+      -
+        titulo: "Manipulando números"
+        codigo: "manipulando-numeros"
+      -
+        titulo: "Concatenações"
+        codigo: "concatenacoes"
+  -
+    titulo: "Propriedades CSS"
+    arquivo: 39-propriedades.md
+    codigo: propriedades
+    secoes:
+      -
+        titulo: "Propriedade `font`"
+        codigo: "propriedade-font"
+      -
+        titulo: "Propriedade `text`"
+        codigo: "propriedade-text"
+      -
+        titulo: "Propriedade `letter-spacing`"
+        codigo: "propriedade-letter-spacing"
+      -
+        titulo: "Propriedade `line-height`"
+        codigo: "propriedade-line-height"
+      -
+        titulo: "Propriedades de cor"
+        codigo: "propriedades-de-cor"
+      -
+        titulo: "Propriedade `background`"
+        codigo: "propriedade-background"
+      -
+        titulo: "Propriedade `border`"
+        codigo: "propriedade-border"
+      -
+        titulo: "Propriedade `vertical-align`"
+        codigo: "propriedade-vertical-align"
+      -
+        titulo: "Propriedades `width` e `height`"
+        codigo: "propriedades-width-e-height"
+      -
+        titulo: "Propriedade `box-sizing`"
+        codigo: "propriedade-box-sizing"
+      -
+        titulo: "Propriedade `overflow`"
+        codigo: "propriedade-overflow"
+
