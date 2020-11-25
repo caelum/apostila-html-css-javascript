@@ -1,0 +1,721 @@
+titulo: "Desenvolvimento Web com HTML, CSS e JavaScript"
+descricao: "Aprenda HTML5, CSS3 e JavaScript. Faça páginas web com boas práticas e as últimas novidades. Apostila gratuita do curso da Caelum."
+capitulos: 
+  -
+    titulo: "A estrutura dos arquivos de um projeto"
+    arquivo: 01CA-baixando-os-arquivos-do-curso.md
+    codigo: 01CA-baixando-os-arquivos-do-curso
+    secoes:
+      -
+        titulo: "Web site ou aplicação Web?"
+        codigo: "web-site-ou-aplicacao-web"
+      -
+        titulo: "Editores e IDEs"
+        codigo: "editores-e-ides"
+  -
+    titulo: "Exercício: Baixando os arquivos do curso"
+    arquivo: 01EX-arquivos-iniciais.md
+    codigo: 01EX-arquivos-iniciais
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Introdução ao HTML"
+    arquivo: 02CA-primeiros-passos-com-html.md
+    codigo: 02CA-primeiros-passos-com-html
+    secoes:
+      -
+        titulo: "Exibindo informações na Web"
+        codigo: "exibindo-informacoes-na-web"
+      -
+        titulo: "Sintaxe do HTML"
+        codigo: "sintaxe-do-html"
+      -
+        titulo: "Tags HTML"
+        codigo: "tags-html"
+      -
+        titulo: "Imagens"
+        codigo: "imagens"
+      -
+        titulo: "Primeira página"
+        codigo: "primeira-pagina"
+  -
+    titulo: "Exercício: Primeiros passos com HTML"
+    arquivo: 02EX-sobre--inicioHTML.md
+    codigo: 02EX-sobre--inicioHTML
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Estrutura de um documento HTML"
+    arquivo: 03CA-a-spec-html.md
+    codigo: 03CA-a-spec-html
+    secoes:
+      -
+        titulo: "A tag `<html>`"
+        codigo: "a-tag-html"
+      -
+        titulo: "A tag `<head>`"
+        codigo: "a-tag-head"
+      -
+        titulo: "A tag `<body>`"
+        codigo: "a-tag-body"
+      -
+        titulo: "A instrução DOCTYPE"
+        codigo: "a-instrucao-doctype"
+  -
+    titulo: "Exercício: A Especificação HTML"
+    arquivo: 03EX-sobre--aSpecHTML.md
+    codigo: 03EX-sobre--aSpecHTML
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Estilizando com CSS"
+    arquivo: 04CA-mudando-o-visual-da-nossa-pagina.md
+    codigo: 04CA-mudando-o-visual-da-nossa-pagina
+    secoes:
+      -
+        titulo: "Sintaxe e inclusão de CSS"
+        codigo: "sintaxe-e-inclusao-de-css"
+      -
+        titulo: "Propriedades tipográficas e fontes"
+        codigo: "propriedades-tipograficas-e-fontes"
+      -
+        titulo: "Alinhamento e decoração de texto"
+        codigo: "alinhamento-e-decoracao-de-texto"
+      -
+        titulo: "Imagem de fundo"
+        codigo: "imagem-de-fundo"
+      -
+        titulo: "Bordas"
+        codigo: "bordas"
+      -
+        titulo: "Cores na Web"
+        codigo: "cores-na-web"
+  -
+    titulo: "Exercício: Mudando o visual da nossa página"
+    arquivo: 04EX-sobre--estilos.md
+    codigo: 04EX-sobre--estilos
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Espaçamentos e dimensões"
+    arquivo: 05CA-trabalhando-com-tamanhos-e-espacamento.md
+    codigo: 05CA-trabalhando-com-tamanhos-e-espacamento
+    secoes:
+      -
+        titulo: "Dimensões"
+        codigo: "dimensoes"
+      -
+        titulo: "Espaçamentos"
+        codigo: "espacamentos"
+  -
+    titulo: "Exercício: Trabalhando com tamanhos e espaçamento"
+    arquivo: 05EX-sobre--tamanhoEspacamento.md
+    codigo: 05EX-sobre--tamanhoEspacamento
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Listas HTML"
+    arquivo: 06CA-usando-links-e-listas.md
+    codigo: 06CA-usando-links-e-listas
+    secoes:
+      -
+        titulo: "Listas de definição"
+        codigo: "listas-de-definicao"
+      -
+        titulo: "Links no HTML"
+        codigo: "links-no-html"
+  -
+    titulo: "Exercício: Usando links e listas"
+    arquivo: 06EX-sobre--linksEListas.md
+    codigo: 06EX-sobre--linksEListas
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Seletores mais específicos e herança"
+    arquivo: 07CA-selecionando-elementos-mais-especificos-e-heranca.md
+    codigo: 07CA-selecionando-elementos-mais-especificos-e-heranca
+    secoes:
+      -
+        titulo: "Para saber mais: o valor inherit"
+        codigo: "para-saber-mais-o-valor-inherit"
+  -
+    titulo: "Exercício: Selecionando elementos mais específicos e herança"
+    arquivo: 07EX-sobre--seletoresEIntroAoLayout.md
+    codigo: 07EX-sobre--seletoresEIntroAoLayout
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Desacoplamento com classes"
+    arquivo: 08CA-usando-classes-para-evitar-acoplamentos-de-estilos.md
+    codigo: 08CA-usando-classes-para-evitar-acoplamentos-de-estilos
+  -
+    titulo: "Exercício: Usando classes para evitar acoplamento de estilos"
+    arquivo: 08EX-sobre--desacoplamentoComClasses.md
+    codigo: 08EX-sobre--desacoplamentoComClasses
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Elementos estruturais e semântica dos elementos"
+    arquivo: 09CA-semantica-em-primeiro-lugar.md
+    codigo: 09CA-semantica-em-primeiro-lugar
+  -
+    titulo: "Exercício: Semantica em primeiro lugar"
+    arquivo: 09EX-sobre__contato--semanticaEmPrimeiroLugar.md
+    codigo: 09EX-sobre__contato--semanticaEmPrimeiroLugar
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Conhecendo padrões de CSS"
+    arquivo: 10CA-treinando-display-e-nomenclatura-de-classes.md
+    codigo: 10CA-treinando-display-e-nomenclatura-de-classes
+    secoes:
+      -
+        titulo: "Tipos de display"
+        codigo: "tipos-de-display"
+  -
+    titulo: "Exercício: Treinando display e nomenclatura de classes"
+    arquivo: 10EX-sobre__contato--displayEIntroBEM.md
+    codigo: 10EX-sobre__contato--displayEIntroBEM
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Um pouco sobre estilização com blocos"
+    arquivo: 11EX-sobre__contato--layoutESemanticaComDivs.md
+    codigo: 11EX-sobre__contato--layoutESemanticaComDivs
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Modificadores"
+    arquivo: 12EX-sobre__contato--inlineBlockEModifiers.md
+    codigo: 12EX-sobre__contato--inlineBlockEModifiers
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Unidades relativas com EM e REM"
+    arquivo: 13CA-medidas-relativas-em-rem.md
+    codigo: 13CA-medidas-relativas-em-rem
+  -
+    titulo: "Exercício: Medidas relativas em e rem"
+    arquivo: 13EX-sobre__rodape--medidasEmERem.md
+    codigo: 13EX-sobre__rodape--medidasEmERem
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Site mobile ou mesmo site?"
+    arquivo: 14CA-responsividade-com-viewport-e-unidades-relativas.md
+    codigo: 14CA-responsividade-com-viewport-e-unidades-relativas
+    secoes:
+      -
+        titulo: "CSS media types"
+        codigo: "css-media-types"
+      -
+        titulo: "CSS3 media queries"
+        codigo: "css3-media-queries"
+      -
+        titulo: "Viewport"
+        codigo: "viewport"
+      -
+        titulo: "Responsive Web Design"
+        codigo: "responsive-web-design"
+      -
+        titulo: "Mobile-first"
+        codigo: "mobile-first"
+  -
+    titulo: "Exercício: Responsividade com viewport e unidades relativas"
+    arquivo: 14EX-sobre__responsive--viewportPorcentagemMaxWBoxModel.md
+    codigo: 14EX-sobre__responsive--viewportPorcentagemMaxWBoxModel
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Responsividade com `@media`"
+    arquivo: 15EX-sobre__responsive--mediaQueries.md
+    codigo: 15EX-sobre__responsive--mediaQueries
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "O processo de desenvolvimento de uma tela"
+    arquivo: 16CA-estrutura-da-pagina-index.md
+    codigo: 16CA-estrutura-da-pagina-index
+    secoes:
+      -
+        titulo: "Analisando o Layout"
+        codigo: "analisando-o-layout"
+  -
+    titulo: "Exercício: Estrutura da página principal e o cabeçalho"
+    arquivo: 16EX-home__baseEcabecalho--semanticaHTML5Emmet.md
+    codigo: 16EX-home__baseEcabecalho--semanticaHTML5Emmet
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Estilizando o header da home"
+    arquivo: 17CA-comecando-a-estilizar-o-header-da-home.md
+    codigo: 17CA-comecando-a-estilizar-o-header-da-home
+    secoes:
+      -
+        titulo: "CSS Reset"
+        codigo: "css-reset"
+      -
+        titulo: "Fontes Próprias"
+        codigo: "fontes-proprias"
+      -
+        titulo: "Modularizando Componentes com CSS Isolados"
+        codigo: "modularizando-componentes-com-css-isolados"
+  -
+    titulo: "Exercício: Começando a estilizar o `header` da home"
+    arquivo: 17EX-home__inicioCabecalho--orgCSSResetF12.md
+    codigo: 17EX-home__inicioCabecalho--orgCSSResetF12
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Progressive Enhancement"
+    arquivo: 18CA-progressive-enhancement.md
+    codigo: 18CA-progressive-enhancement
+    secoes:
+      -
+        titulo: "Condições, opções, limitações e restrições"
+        codigo: "condicoes-opcoes-limitacoes-e-restricoes"
+  -
+    titulo: "Exercício: Progressive Enhancement"
+    arquivo: 18EX-home__cabecalho--introProgressiveEnhancement.md
+    codigo: 18EX-home__cabecalho--introProgressiveEnhancement
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Display Flex"
+    arquivo: 19CA-novos-layouts-com-flexbox.md
+    codigo: 19CA-novos-layouts-com-flexbox
+    secoes:
+      -
+        titulo: "Flex Container"
+        codigo: "flex-container"
+  -
+    titulo: "Exercício: Novos Layouts com Flexbox"
+    arquivo: 19EX-home__cabecalho--introNovosLayoutsComFlexbox-A.md
+    codigo: 19EX-home__cabecalho--introNovosLayoutsComFlexbox-A
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Novos Layouts com Flexbox B"
+    arquivo: 20EX-home__cabecalho--introNovosLayoutsComFlexbox-B.md
+    codigo: 20EX-home__cabecalho--introNovosLayoutsComFlexbox-B
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Responsividade e Fallback"
+    arquivo: 21CA-responsividade-e-fallback.md
+    codigo: 21CA-responsividade-e-fallback
+  -
+    titulo: "Exercício: Responsividade e fallback"
+    arquivo: 21EX-home__cabecalhoResponsivoHDPI--borderRadius--calc--canIUse--fallbacks.md
+    codigo: 21EX-home__cabecalhoResponsivoHDPI--borderRadius--calc--canIUse--fallbacks
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Desafio: crie o HTML do rodapé"
+    arquivo: 22EX-rodape__html--desafio--revisao.md
+    codigo: 22EX-rodape__html--desafio--revisao
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Conteúdo Rodapé"
+    arquivo: 23EX-rodape__css--conteudo-first.md
+    codigo: 23EX-rodape__css--conteudo-first
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Espaçando o conteúdo do rodapé - os detalhes nas entrelinhas e margens"
+    arquivo: 24EX-rodape__css--edicao-em-massa--espacamentos--font-weight-como-numero.md
+    codigo: 24EX-rodape__css--edicao-em-massa--espacamentos--font-weight-como-numero
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: O formulário de newsletter do rodapé"
+    arquivo: 25EX-rodape__intro-forms--form-label-input--escondendo-label-apenas-no-visual.md
+    codigo: 25EX-rodape__intro-forms--form-label-input--escondendo-label-apenas-no-visual
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Embaralhando os itens do rodapé em telas maiores com Flexbox"
+    arquivo: 26EX-rodape__responsivo--order--o-problema-da-especificide.md
+    codigo: 26EX-rodape__responsivo--order--o-problema-da-especificide
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Rodapé em telas grandes sem sobrescrever tudo o que veio antes"
+    arquivo: 27EX-rodape__responsivo-desktop--media.md
+    codigo: 27EX-rodape__responsivo-desktop--media
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: O componente container"
+    arquivo: 28EX-rodape__responsivo-desktop--classe--container.md
+    codigo: 28EX-rodape__responsivo-desktop--classe--container
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Display: grid"
+    arquivo: 29CA-conteudo-principal-com-grid.md
+    codigo: 29CA-conteudo-principal-com-grid
+    secoes:
+      -
+        titulo: "grid-template-columns"
+        codigo: "grid-template-columns"
+      -
+        titulo: "grid-template-rows"
+        codigo: "grid-template-rows"
+  -
+    titulo: "Exercício: Conteúdo principal - a vitrine de cursos"
+    arquivo: 29EX-principal__chamada-cursos--grid.md
+    codigo: 29EX-principal__chamada-cursos--grid
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Conteúdo Principal"
+    arquivo: 30EX-principal__video.md
+    codigo: 30EX-principal__video
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Conteúdo principal (opcional) - os planos"
+    arquivo: 31EX-principal__planos--opcional.md
+    codigo: 31EX-principal__planos--opcional
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Conteúdo Principal - os benefícios"
+    arquivo: 32EX-principal__beneficios.md
+    codigo: 32EX-principal__beneficios
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Conteúdo Principal (opcional) - chamada youtube"
+    arquivo: 33EX-principal__chamada-youtube--opcional.md
+    codigo: 33EX-principal__chamada-youtube--opcional
+    secoes:
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Conteúdo Principal - chamada dos aplicativos"
+    arquivo: 34EX-principal__chamada-aplicativo.md
+    codigo: 34EX-principal__chamada-aplicativo
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Bootstrap e frameworks de CSS"
+    arquivo: 35CA-paginas-com-bootstrap.md
+    codigo: 35CA-paginas-com-bootstrap
+    secoes:
+      -
+        titulo: "Estilo e componentes base"
+        codigo: "estilo-e-componentes-base"
+  -
+    titulo: "Exercício: Primeiros passos com Bootstrap"
+    arquivo: 35EX-matricula__navbar-e-jumbo.md
+    codigo: 35EX-matricula__navbar-e-jumbo
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: Customizando o Bootstrap (opicional)"
+    arquivo: 36EX-matricula__bootstrap-customizado.md
+    codigo: 36EX-matricula__bootstrap-customizado
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Exercício: A tabela de cursos"
+    arquivo: 37EX-matricula__tabela-de-cursos.md
+    codigo: 37EX-matricula__tabela-de-cursos
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Um pouquinho da história do JavaScript"
+    arquivo: 38CA-eventos-com-javascript.md
+    codigo: 38CA-eventos-com-javascript
+    secoes:
+      -
+        titulo: "História"
+        codigo: "historia"
+      -
+        titulo: "Características da linguagem"
+        codigo: "caracteristicas-da-linguagem"
+      -
+        titulo: "Console do navegador"
+        codigo: "console-do-navegador"
+      -
+        titulo: "Sintaxe básica"
+        codigo: "sintaxe-basica"
+      -
+        titulo: "A tag script"
+        codigo: "a-tag-script"
+      -
+        titulo: "JavaScript em arquivo externo"
+        codigo: "javascript-em-arquivo-externo"
+      -
+        titulo: "Mensagens no console"
+        codigo: "mensagens-no-console"
+      -
+        titulo: "DOM: sua página no mundo JavaScript"
+        codigo: "dom-sua-pagina-no-mundo-javascript"
+      -
+        titulo: "querySelector"
+        codigo: "queryselector"
+      -
+        titulo: "Elemento da página como variável"
+        codigo: "elemento-da-pagina-como-variavel"
+      -
+        titulo: "querySelectorAll"
+        codigo: "queryselectorall"
+      -
+        titulo: "Alterações no DOM"
+        codigo: "alteracoes-no-dom"
+      -
+        titulo: "Funções e os eventos do DOM"
+        codigo: "funcoes-e-os-eventos-do-dom"
+      -
+        titulo: "Funções Anônimas"
+        codigo: "funcoes-anonimas"
+      -
+        titulo: "Manipulando strings"
+        codigo: "manipulando-strings"
+      -
+        titulo: "Imutabilidade"
+        codigo: "imutabilidade"
+      -
+        titulo: "Conversões"
+        codigo: "conversoes"
+      -
+        titulo: "Manipulando números"
+        codigo: "manipulando-numeros"
+      -
+        titulo: "Concatenações"
+        codigo: "concatenacoes"
+  -
+    titulo: "Exercício: Calculando total de horas e cursos com JavaScript"
+    arquivo: 38EX-matricula__javascript.md
+    codigo: 38EX-matricula__javascript
+    secoes:
+      -
+        titulo: "Objetivo"
+        codigo: "objetivo"
+      -
+        titulo: "Passo a passo com código"
+        codigo: "passo-a-passo-com-codigo"
+  -
+    titulo: "Propriedades CSS"
+    arquivo: 39CA-propriedades.md
+    codigo: 39CA-propriedades
+    secoes:
+      -
+        titulo: "Propriedade `font`"
+        codigo: "propriedade-font"
+      -
+        titulo: "Propriedade `text`"
+        codigo: "propriedade-text"
+      -
+        titulo: "Propriedade `letter-spacing`"
+        codigo: "propriedade-letter-spacing"
+      -
+        titulo: "Propriedade `line-height`"
+        codigo: "propriedade-line-height"
+      -
+        titulo: "Propriedades de cor"
+        codigo: "propriedades-de-cor"
+      -
+        titulo: "Propriedade `background`"
+        codigo: "propriedade-background"
+      -
+        titulo: "Propriedade `border`"
+        codigo: "propriedade-border"
+      -
+        titulo: "Propriedade `vertical-align`"
+        codigo: "propriedade-vertical-align"
+      -
+        titulo: "Propriedades `width` e `height`"
+        codigo: "propriedades-width-e-height"
+      -
+        titulo: "Propriedade `box-sizing`"
+        codigo: "propriedade-box-sizing"
+      -
+        titulo: "Propriedade `overflow`"
+        codigo: "propriedade-overflow"
+
