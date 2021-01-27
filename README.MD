@@ -1,6 +1,6 @@
-# Apostila do curso [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) da Caelum
+# Apostila do curso [Estruturação de páginas usando HTML e CSS](https://www.caelum.com.br/apostila-html-css/) da Caelum
 
-Para mais informações sobre o curso, acesse: https://www.caelum.com.br/apostila-html-css-javascript/
+Para mais informações sobre o curso, acesse: https://www.caelum.com.br/curso-html-css/
 
 ## Licença
 
