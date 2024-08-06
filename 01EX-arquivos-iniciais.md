@@ -8,7 +8,7 @@ Nossa recomendação é que crie essa pasta com o nome **"projeto-musicdot"** na
 
 Antes de escrever qualquer código do projeto, você também já pode pegar todos os arquivos de imagens e estilo do curso que estão prontos e copiar eles para a pasta **"projeto-musicdot"** que acabou de criar.
 
-Faça o download dos arquivos no seguinte endereço: [https://www.caelum.com.br/download/caelum-arquivos-wd43.zip](https://www.caelum.com.br/download/caelum-arquivos-wd43.zip)
+Faça o download dos arquivos no seguinte endereço: [https://caelum-online-public.s3.amazonaws.com/wd-43/wd43-musicdot-arquivos-iniciais.zip](https://caelum-online-public.s3.amazonaws.com/wd-43/wd43-musicdot-arquivos-iniciais.zip)
 
 > Abrindo o projeto no Visual Studio Code:
 > 
